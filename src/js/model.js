@@ -109,6 +109,11 @@ init()
 
 console.log(state.bookmarks)
 
+
+const newfeature = function(){
+   console.log('Welcome to the Jungle Brother')
+}
+newfeature();
 const clearBookmarks = function(){
    localStorage.clear('bookmarks')
 }
