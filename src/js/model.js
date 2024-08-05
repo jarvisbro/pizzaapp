@@ -111,7 +111,7 @@ console.log(state.bookmarks)
 
 
 const newfeature = function(){
-   console.log('Welcome to the Jungle Brother')
+   console.log('Welcome to the Jungle Brraa')
 }
 newfeature();
 const clearBookmarks = function(){
