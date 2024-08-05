@@ -2,7 +2,7 @@
   "name": "firkify",
   "version": "1.0.0",
   "description": "Recipe App",
-  "default":"index.js",
+  "default":"index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel index.html   --dist-dir ./dist"
