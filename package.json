@@ -1,0 +1,20 @@
+{
+  "name": "firkify",
+  "version": "1.0.0",
+  "description": "Recipe App",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel index.html"
+  },
+  "author": "Deepak",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.37.1",
+    "fractional": "^1.0.0",
+    "parcel": "^2.12.0",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0"
+  }
+}
